@@ -1,4 +1,0 @@
-selenium==4.21.0
-mariadb==1.1.8
-psycopg2-binary==2.9.9
-tqdm==4.66.4
